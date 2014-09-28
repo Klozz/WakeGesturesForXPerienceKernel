@@ -27,11 +27,11 @@
 
     <!-- About -->
     <string name="pref_cat_about_title">About</string>
-    <string name="pref_about_summary">Developed by C3C076@XDA. Touch to visit official thread.</string>
+    <string name="pref_about_summary">Developed by C3C076@XDA Moded by TeamMEX for XPerience Kernel. Touch to visit official thread.</string>
     <string name="pref_about_donate_title">Support developer</string>
     <string name="pref_about_donate_summary">Touch to open PayPal donation page</string>
-    <string name="pref_about_elementalx_title">ElementalX kernel</string>
-    <string name="pref_about_elementalx_summary">Developed by flar2@XDA. Touch to visit official thread.</string>
+    <string name="pref_about_elementalx_title">XPerience kernel</string>
+    <string name="pref_about_elementalx_summary">Developed by TeamMEX@XDA. Touch to visit official thread.</string>
 
     <!-- AppPickerPreference -->
     <string name="app_picker_none">(None)</string>
