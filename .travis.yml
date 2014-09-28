@@ -8,7 +8,6 @@ android:
   components:
     - build-tools-19.1.0
     - android-19
-    -android-17
 
 before_script:
   # Move to project folder before build
