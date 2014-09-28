@@ -1,6 +1,8 @@
 Wake Gestures
 =============
 
+https://travis-ci.org/Klozz/WakeGesturesForXPerienceKernel.svg
+
 XPosed module for handling kernel level wake gestures
 
 Visit official thread at XDA for more info:
