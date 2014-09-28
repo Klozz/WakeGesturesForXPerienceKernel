@@ -1,7 +1,8 @@
 Wake Gestures
 =============
 
-https://travis-ci.org/Klozz/WakeGesturesForXPerienceKernel.svg
+
+[![Build Status](https://travis-ci.org/Klozz/WakeGesturesForXPerienceKernel.svg?branch=master)](https://travis-ci.org/Klozz/WakeGesturesForXPerienceKernel)
 
 XPosed module for handling kernel level wake gestures
 
