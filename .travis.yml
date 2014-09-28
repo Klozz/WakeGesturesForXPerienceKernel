@@ -2,16 +2,17 @@ language: android
 jdk: oraclejdk7
 env:
   matrix:
-    - ANDROID_TARGET=android-19  ANDROID_ABI=armeabi-v7a
+    - ANDROID_TARGET=android-19 ANDROID_MINSKD=17  ANDROID_ABI=armeabi-v7a
 
 android:
   components:
     - build-tools-19.1.0
     - android-19
+    -android-17
 
 before_script:
   # Move to project folder before build
-  - cd project/
+  #- cd project/
 
   # Create and start emulator
   # - echo no | android create avd --force -n test -t $ANDROID_TARGET --abi $ANDROID_ABI
